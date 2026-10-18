@@ -1,0 +1,248 @@
+{
+  "schools": [
+    {
+      "id": "school_mv9ui3se_7456ee47",
+      "schoolName": "HPS School",
+      "schoolId": "SCH-9A3C77DF",
+      "username": "HPS School",
+      "location": "Allabad",
+      "address": "Allabad",
+      "ownerName": "M Khan",
+      "logo": "",
+      "accountStatus": "Active",
+      "passwordHash": "43aa28c6fdcee01e45286d6fe8cf2819:ca6a9bfa79fc2c9bbf7461fe898e5bae231b1106798773f8e2ad8deba9989f9dbaafef60a89d95c412c7279bae02dda234b240a0bbbc85cd686b3f03d29f113d",
+      "phone": "03420166923",
+      "email": "kmuazzam761@gmail.com",
+      "plan": "Monthly",
+      "planDays": 30,
+      "monthlyFee": 1000,
+      "subscriptionStart": "2026-10-15",
+      "subscriptionExpiry": "2026-11-14",
+      "paymentStatus": "Paid",
+      "status": "Active",
+      "applicationVersion": "1.0.0",
+      "notes": "",
+      "appConfig": {
+        "hidden": [
+          "attendance",
+          "idcards",
+          "fees",
+          "exams",
+          "results",
+          "library"
+        ],
+        "labels": {},
+        "lastUpdateId": "upd_mv9ul1yc_43867279"
+      },
+      "appConfigPrev": {
+        "hidden": [],
+        "labels": {},
+        "lastUpdateId": "upd_mv9ujc86_5b8c64ae"
+      },
+      "features": [],
+      "createdAt": "2026-10-15T18:01:31.310Z",
+      "updatedAt": "2026-10-15T18:01:31.310Z"
+    }
+  ],
+  "updates": [
+    {
+      "id": "upd_mv9ul1yc_43867279",
+      "title": "hjk",
+      "description": "hgjk",
+      "updateType": "New Feature",
+      "version": "1.0.9",
+      "targetSchools": [
+        "SCH-9A3C77DF"
+      ],
+      "status": "Published",
+      "createdAt": "2026-10-15T18:03:48.900Z",
+      "publishedAt": "2026-10-15T18:03:51.069Z",
+      "packageName": "HPS-sidebar-menu.json",
+      "packageSize": 315,
+      "packageSha256": "8a1c21f44c8821ab4d3951967f5bb5e7294dc6e824bbc52656b15f0ba6b676af",
+      "manifestToken": "eyJyb2xlIjoidXBkYXRlIiwidXBkYXRlSWQiOiJ1cGRfbXY5dWwxeWNfNDM4NjcyNzkiLCJ2ZXJzaW9uIjoiMS4wLjkiLCJzaGEyNTYiOiI4YTFjMjFmNDRjODgyMWFiNGQzOTUxOTY3ZjViYjVlNzI5NGRjNmU4MjRiYmM1MjY1NmIxNWYwYmE2YjY3NmFmIiwicHVibGlzaGVkQXQiOiIyMDI2LTEwLTE1VDE4OjAzOjUxLjA2OVoifQ.AmTX-NmGHW8jg-sekNR7TNSut-ENtEGFsc5eC10TdUG9S_ql0by81odsKVNP_8ikeHAAPAiuni2zvnn8Wtyhr1bATWtQG81zJdg_JpWcsxoajkGnQ_2emuzndlfsNoWdRnbI-fR4aLc3p6aAgJfKT-k11BaCfMJ3dOr-tsDBIufmQdSTxo5x_IJ8nSdivg7EZLBncO6wzeXEm3_Eojjxx7Av0qC3SoDA3PxXHAhdYpOWfc-5fjzHXu6PdjTmPUtIR5RLxi0rP74xEnuMW0F9lXKwWl050gIxScwhnlt8XowrZvq0mMtaKDtQ3Lb2b_Uspv6wZQNtLGdmCeTezhm1Cw",
+      "deliveries": {
+        "SCH-9A3C77DF": {
+          "status": "Installed",
+          "at": "2026-10-15T18:03:59.862Z",
+          "error": "",
+          "version": "1.0.9"
+        }
+      },
+      "appFile": false,
+      "kind": "config"
+    },
+    {
+      "id": "upd_mv9ujc86_5b8c64ae",
+      "title": "updation",
+      "description": "ok",
+      "updateType": "New Feature",
+      "version": "1.0.55",
+      "targetSchools": [
+        "SCH-9A3C77DF"
+      ],
+      "status": "Published",
+      "createdAt": "2026-10-15T18:02:28.902Z",
+      "publishedAt": "2026-10-15T18:02:28.908Z",
+      "packageName": "HPS-sidebar-menu.json",
+      "packageSize": 315,
+      "packageSha256": "41859577509453df15bf8420e3bc975cd73de522db833f683dfe8e364e477479",
+      "manifestToken": "eyJyb2xlIjoidXBkYXRlIiwidXBkYXRlSWQiOiJ1cGRfbXY5dWpjODZfNWI4YzY0YWUiLCJ2ZXJzaW9uIjoiMS4wLjU1Iiwic2hhMjU2IjoiNDE4NTk1Nzc1MDk0NTNkZjE1YmY4NDIwZTNiYzk3NWNkNzNkZTUyMmRiODMzZjY4M2RmZThlMzY0ZTQ3NzQ3OSIsInB1Ymxpc2hlZEF0IjoiMjAyNi0xMC0xNVQxODowMjoyOC45MDhaIn0.tQ7sjJ8h8bi0Fs9Ibu66LzlpuZ7Xd9EuZUrfZM98OU0m5X14zIDEbhkULccR5FVhw2C16PYLqXgW-qEYUU7miWMa7h2lfD6na_0yDZUNLVBP5SpAcQebCXEoDfbCI6t5c1K38up5VJRqxsUk-QBDlnj6VSOoyGP5590hX_PVn6ida0Dls7yUnGEZN5wfnYJ_mShSSuWAC4GLzMisR8uKgTXe4r-GbeN1_2sC1rBhFgFRnuSyVqmSWwlwoc15SM9mo2opHlPq97Nw5lX61slRPCBCJoicMqW_B1MyuACCLy6VHvbKJAwsWz60mhcWJqxiKHQcWaP4W8BWtVdzUn6mZw",
+      "deliveries": {
+        "SCH-9A3C77DF": {
+          "status": "Installed",
+          "at": "2026-10-15T18:02:37.535Z",
+          "error": "",
+          "version": "1.0.55"
+        }
+      },
+      "appFile": false,
+      "kind": "config"
+    }
+  ],
+  "activity": [
+    {
+      "id": "act_mvdvjsta_343c86b9",
+      "at": "2026-10-18T13:41:54.718Z",
+      "action": "School login successful",
+      "schoolId": "school_mv9ui3se_7456ee47",
+      "meta": {
+        "username": "HPS School"
+      }
+    },
+    {
+      "id": "act_mv9uley1_3d8b46b1",
+      "at": "2026-10-15T18:04:05.737Z",
+      "action": "School login successful",
+      "schoolId": "school_mv9ui3se_7456ee47",
+      "meta": {
+        "username": "HPS School"
+      }
+    },
+    {
+      "id": "act_mv9ulc9c_46a2ac9a",
+      "at": "2026-10-15T18:04:02.256Z",
+      "action": "School login successful",
+      "schoolId": "school_mv9ui3se_7456ee47",
+      "meta": {
+        "username": "HPS School"
+      }
+    },
+    {
+      "id": "act_mv9ulaeu_46c281f5",
+      "at": "2026-10-15T18:03:59.862Z",
+      "action": "Configuration update applied",
+      "schoolId": "school_mv9ui3se_7456ee47",
+      "meta": {
+        "updateId": "upd_mv9ul1yc_43867279"
+      }
+    },
+    {
+      "id": "act_mv9ul9kx_b0009872",
+      "at": "2026-10-15T18:03:58.785Z",
+      "action": "School login successful",
+      "schoolId": "school_mv9ui3se_7456ee47",
+      "meta": {
+        "username": "HPS School"
+      }
+    },
+    {
+      "id": "act_mv9ul3mn_97d9bf31",
+      "at": "2026-10-15T18:03:51.071Z",
+      "action": "Update published",
+      "schoolId": null,
+      "meta": {
+        "updateId": "upd_mv9ul1yc_43867279",
+        "targetSchools": [
+          "SCH-9A3C77DF"
+        ]
+      }
+    },
+    {
+      "id": "act_mv9ul1yd_3a19a2e6",
+      "at": "2026-10-15T18:03:48.901Z",
+      "action": "Update draft created",
+      "schoolId": null,
+      "meta": {
+        "updateId": "upd_mv9ul1yc_43867279",
+        "title": "hjk"
+      }
+    },
+    {
+      "id": "act_mv9uk5g9_dcd82ce0",
+      "at": "2026-10-15T18:03:06.777Z",
+      "action": "School login successful",
+      "schoolId": "school_mv9ui3se_7456ee47",
+      "meta": {
+        "username": "HPS School"
+      }
+    },
+    {
+      "id": "act_mv9ujpw3_6ceb0cb0",
+      "at": "2026-10-15T18:02:46.611Z",
+      "action": "School login successful",
+      "schoolId": "school_mv9ui3se_7456ee47",
+      "meta": {
+        "username": "HPS School"
+      }
+    },
+    {
+      "id": "act_mv9ujivz_e5909808",
+      "at": "2026-10-15T18:02:37.535Z",
+      "action": "Configuration update applied",
+      "schoolId": "school_mv9ui3se_7456ee47",
+      "meta": {
+        "updateId": "upd_mv9ujc86_5b8c64ae"
+      }
+    },
+    {
+      "id": "act_mv9uji9v_b967b298",
+      "at": "2026-10-15T18:02:36.739Z",
+      "action": "School login successful",
+      "schoolId": "school_mv9ui3se_7456ee47",
+      "meta": {
+        "username": "HPS School"
+      }
+    },
+    {
+      "id": "act_mv9ujc8e_7fbd9941",
+      "at": "2026-10-15T18:02:28.910Z",
+      "action": "Update published",
+      "schoolId": null,
+      "meta": {
+        "updateId": "upd_mv9ujc86_5b8c64ae",
+        "targetSchools": [
+          "SCH-9A3C77DF"
+        ]
+      }
+    },
+    {
+      "id": "act_mv9ujc87_2b7e49c5",
+      "at": "2026-10-15T18:02:28.904Z",
+      "action": "Update draft created",
+      "schoolId": null,
+      "meta": {
+        "updateId": "upd_mv9ujc86_5b8c64ae",
+        "title": "updation"
+      }
+    },
+    {
+      "id": "act_mv9ui6uy_08f75f33",
+      "at": "2026-10-15T18:01:35.290Z",
+      "action": "School login successful",
+      "schoolId": "school_mv9ui3se_7456ee47",
+      "meta": {
+        "username": "HPS School"
+      }
+    },
+    {
+      "id": "act_mv9ui3sf_7ab604db",
+      "at": "2026-10-15T18:01:31.311Z",
+      "action": "School created",
+      "schoolId": "school_mv9ui3se_7456ee47",
+      "meta": {
+        "schoolName": "HPS School"
+      }
+    }
+  ]
+}

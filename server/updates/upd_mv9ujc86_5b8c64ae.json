@@ -1,0 +1,11 @@
+{
+  "format": "hps-config-1",
+  "operations": [
+    { "op": "show", "feature": "attendance" },
+    { "op": "show", "feature": "idcards" },
+    { "op": "show", "feature": "fees" },
+    { "op": "show", "feature": "exams" },
+    { "op": "show", "feature": "results" },
+    { "op": "show", "feature": "library" }
+  ]
+}

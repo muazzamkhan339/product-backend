@@ -1,0 +1,12 @@
+{
+  "name": "school-management-saas-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Central subscription, licensing and update-management server for the offline School Management System",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
